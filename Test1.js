@@ -7,3 +7,5 @@ function test1(){
   else
     alert("Fail");
 }
+
+test1();
